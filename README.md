@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there!
+- 🔭 I’m currently taking a Degree of Master of Science in Engineering specialising in Medical Engineering at KTH
 <!--
 **fstenl/fstenl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
